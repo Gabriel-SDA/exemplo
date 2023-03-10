@@ -1,1 +1,1 @@
-aaaaaaaaaaa
+print "hello"
